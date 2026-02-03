@@ -7,7 +7,7 @@ import { TechItem } from './types';
  */
 
 // Tu número de WhatsApp con código de país (sin el signo +)
-export const WHATSAPP_NUMBER = "https://wa.me/51939467706?text=.code"; 
+export const WHATSAPP_NUMBER = "51939467706?text=.code"; 
 
 // Tu enlace de repositorio en GitHub
 export const GITHUB_URL = "https://github.com/hello-000-1/TIME"; 
