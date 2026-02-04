@@ -24,6 +24,7 @@ import {
 } from 'lucide-react';
 import { GoogleGenAI } from "@google/genai";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { TECH_STACK, WHATSAPP_NUMBER, GITHUB_URL, TIKTOK_URL, FACEBOOK_URL } from './constants.tsx';
 import TechTable from './components/TechTable.tsx';
 
@@ -376,6 +377,7 @@ const App: React.FC = () => {
         </motion.button>
       </div>
       <Analytics />
+      <SpeedInsights />
     </div>
   );
 };
