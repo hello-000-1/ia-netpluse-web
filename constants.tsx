@@ -13,7 +13,7 @@ export const WHATSAPP_NUMBER = "51939467706?text=.menu";
 export const GITHUB_URL = "https://github.com/hello-000-1/TIME"; 
 
 // Tu enlace de perfil en TikTok
-export const TIKTOK_URL = "https://vt.tiktok.com/ZSaQCV1JN/"; 
+export const TIKTOK_URL = "https://vt.tiktok.com/ZSmqn727x/"; 
 
 // Tu enlace de perfil en Facebook
 export const FACEBOOK_URL = "https://www.facebook.com/share/r/17rJmJLt14/";
